@@ -27,6 +27,7 @@ All repositories are self-contained with unit tests, CI (GitHub Actions), MIT li
 | [**freelance-portfolio**](https://github.com/febriyansyahresearch-lab/freelance-portfolio) | Threat intelligence enrichment, SIEM log parser, vulnerability scanner, phishing detector, fraud detection API | 24 ✅ |
 | [**soc-automation**](https://github.com/febriyansyahresearch-lab/soc-automation) | 6 incident response playbooks (NIST 800-61), SOAR workflows (TheHive/Cortex/Shuffle), Sigma rules, correlation engine, IOC management, SOC metrics | 41 ✅ |
 | [**sec-compliance**](https://github.com/febriyansyahresearch-lab/sec-compliance) | Risk assessment (5x5 matrices), NIST CSF 2.0 / ISO 27001:2022 / PCI DSS v4.0 / COBIT 2019 / BI-POJK controls, policy generator, audit checklists | 48 ✅ |
+| [**ai-soc-for-banking**](https://github.com/febriyansyahresearch-lab/ai-soc-for-banking) | SIEM-lite ingestion, rule/anomaly/correlation detection, IR playbooks, SOAR orchestration, GRC compliance, Streamlit dashboard | 68 ✅ |
 
 ### 🤖 AI Research
 
@@ -45,8 +46,8 @@ All repositories are self-contained with unit tests, CI (GitHub Actions), MIT li
 ## 📊 Stats
 
 ```
-Repositories:  7 public
-Total tests:   238 ✅
+Repositories:  8 public
+Total tests:   306 ✅
 CI status:     All passing
 License:       MIT (all repos)
 ```
@@ -58,6 +59,7 @@ License:       MIT (all repos)
 [![ci-infra](https://img.shields.io/github/actions/workflow/status/febriyansyahresearch-lab/infra-workspace/test.yml?label=infra-workspace&style=flat-square)](https://github.com/febriyansyahresearch-lab/infra-workspace/actions)
 [![ci-soc](https://img.shields.io/github/actions/workflow/status/febriyansyahresearch-lab/soc-automation/test.yml?label=soc-automation&style=flat-square)](https://github.com/febriyansyahresearch-lab/soc-automation/actions)
 [![ci-sec](https://img.shields.io/github/actions/workflow/status/febriyansyahresearch-lab/sec-compliance/test.yml?label=sec-compliance&style=flat-square)](https://github.com/febriyansyahresearch-lab/sec-compliance/actions)
+[![ci-ai-soc](https://img.shields.io/github/actions/workflow/status/febriyansyahresearch-lab/ai-soc-for-banking/test.yml?label=ai-soc-for-banking&style=flat-square)](https://github.com/febriyansyahresearch-lab/ai-soc-for-banking/actions)
 
 ---
 
