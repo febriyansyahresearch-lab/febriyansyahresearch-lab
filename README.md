@@ -11,7 +11,7 @@ I build at the intersection of **cybersecurity** and **machine learning** — tu
 
 ## 📁 Featured Portfolio
 
-All repositories are self-contained with unit tests, CI (GitHub Actions), MIT license, and academic-grade documentation.
+Featured repositories are self-contained with unit tests, CI (GitHub Actions), MIT license, and academic-grade documentation.
 
 ### 🧠 Machine Learning & Data Science
 
@@ -48,8 +48,8 @@ All repositories are self-contained with unit tests, CI (GitHub Actions), MIT li
 ```
 Repositories:  8 featured / 10 public
 Total tests:   306 ✅
-CI status:     All passing
-License:       MIT (all repos)
+CI status:     Featured repos passing
+License:       MIT (featured repos)
 ```
 
 [![ci-kaggle](https://img.shields.io/github/actions/workflow/status/febriyansyahresearch-lab/kaggle-project/test.yml?label=kaggle-project&style=flat-square)](https://github.com/febriyansyahresearch-lab/kaggle-project/actions)
