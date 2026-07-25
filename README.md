@@ -9,7 +9,7 @@ I build at the intersection of **cybersecurity** and **machine learning** — tu
 
 ---
 
-## 📁 Portfolio
+## 📁 Featured Portfolio
 
 All repositories are self-contained with unit tests, CI (GitHub Actions), MIT license, and academic-grade documentation.
 
@@ -46,7 +46,7 @@ All repositories are self-contained with unit tests, CI (GitHub Actions), MIT li
 ## 📊 Stats
 
 ```
-Repositories:  8 public
+Repositories:  8 featured / 10 public
 Total tests:   306 ✅
 CI status:     All passing
 License:       MIT (all repos)
